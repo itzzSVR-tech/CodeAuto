@@ -1,4 +1,4 @@
-# HR Workflow Designer
+# CodeAuto
 
 A visual workflow designer for HR processes built with React and React Flow. This prototype allows HR admins to create, configure, and test internal workflows such as onboarding, leave approval, or document verification.
 
